@@ -1,3 +1,14 @@
+Peer Review Reminder
+=========
+Reason for build failing:
+=========
+One of our tasks is to add a test for a function that does not exist yet, namely to rename the existing team when there is import conflict. Therefore, as per test-driven development practice, the test will always fail until the function is correctly implemented.
+
+If you have any questions, feel free to contact with nlai@ncsu.edu, tcao@ncsu.edu, mdong4@ncsu.edu. Thanks!
+
+
+
+
 Expertiza
 =========
 
